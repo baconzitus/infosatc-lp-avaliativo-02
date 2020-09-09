@@ -13,8 +13,8 @@ Linguagem de Programação
 python
 
 [exercicio 03](https://github.com/baconzitus/infosatc-lp-avaliativo-02/blob/master/atividade03.py)  
-[exercicio 04](https://github.com/baconzitus/infosatc-lp-avaliativo-02/blob/master/atividade04.py)
-[exercicio 05](https://github.com/baconzitus/infosatc-lp-avaliativo-02/blob/master/atividade05.py)
-[exercicio 06](https://github.com/baconzitus/infosatc-lp-avaliativo-02/blob/master/atividade06.py)
-[exercicio 07](https://github.com/baconzitus/infosatc-lp-avaliativo-02/blob/master/atividade07.py)
-[exercicio 08](https://github.com/baconzitus/infosatc-lp-avaliativo-02/blob/master/atividade08.py)
+[exercicio 04](https://github.com/baconzitus/infosatc-lp-avaliativo-02/blob/master/atividade04.py)  
+[exercicio 05](https://github.com/baconzitus/infosatc-lp-avaliativo-02/blob/master/atividade05.py)  
+[exercicio 06](https://github.com/baconzitus/infosatc-lp-avaliativo-02/blob/master/atividade06.py)  
+[exercicio 07](https://github.com/baconzitus/infosatc-lp-avaliativo-02/blob/master/atividade07.py)  
+[exercicio 08](https://github.com/baconzitus/infosatc-lp-avaliativo-02/blob/master/atividade08.py)  
