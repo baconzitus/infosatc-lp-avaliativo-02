@@ -12,14 +12,9 @@ Linguagem de Programação
 
 python
 
-[exercicio 07](https://github.com/baconzitus/infosatc-lp-avaliativo-01/blob/master/exercicio07.py)  
-[exercicio 10](https://github.com/baconzitus/infosatc-lp-avaliativo-01/blob/master/exercicio10.py)  
-[exercicio 13](https://github.com/baconzitus/infosatc-lp-avaliativo-01/blob/master/exercicio13.py)  
-[exercicio 18](https://github.com/baconzitus/infosatc-lp-avaliativo-01/blob/master/exercicio18.py)  
-[exercicio 20](https://github.com/baconzitus/infosatc-lp-avaliativo-01/blob/master/exercicio20.py)  
-[exercicio 22](https://github.com/baconzitus/infosatc-lp-avaliativo-01/blob/master/exercicio22.py)  
-[exercicio 24](https://github.com/baconzitus/infosatc-lp-avaliativo-01/blob/master/exercicio24.py)  
-[exercicio 26](https://github.com/baconzitus/infosatc-lp-avaliativo-01/blob/master/exercicio26.py)  
-[exercicio 27](https://github.com/baconzitus/infosatc-lp-avaliativo-01/blob/master/exercicio27.py)  
-[exercicio 29](https://github.com/baconzitus/infosatc-lp-avaliativo-01/blob/master/exercicio29.py)  
-[exercicio 30](https://github.com/baconzitus/infosatc-lp-avaliativo-01/blob/master/exercicio30.py)
+[exercicio 03](https://github.com/baconzitus/infosatc-lp-avaliativo-02/blob/master/atividade03.py)  
+[exercicio 04](https://github.com/baconzitus/infosatc-lp-avaliativo-02/blob/master/atividade04.py)
+[exercicio 05](https://github.com/baconzitus/infosatc-lp-avaliativo-02/blob/master/atividade05.py)
+[exercicio 06](https://github.com/baconzitus/infosatc-lp-avaliativo-02/blob/master/atividade06.py)
+[exercicio 07](https://github.com/baconzitus/infosatc-lp-avaliativo-02/blob/master/atividade07.py)
+[exercicio 08](https://github.com/baconzitus/infosatc-lp-avaliativo-02/blob/master/atividade08.py)
